@@ -1,4 +1,4 @@
-# VisiData
+# I ❤️ VisiData
 ## PyLadies Dublin Feb 2023
 ### Michael Twomey
 
@@ -38,6 +38,8 @@ Yes I don't know what a senior cloud architect is either
 
 ---
 
+	https://visidata.org/
+
 /assets/Clipboard.png
 size: contain
 
@@ -55,12 +57,14 @@ vd myfile.csv
 ```
 
 ```
-pipx run visidata 
+pipx run visidata myfile.csv
 ```
 
-If you love Excel and are proficient in it, probably not
+	If you love Excel and are proficient in it, probably not
 
-If you hate the terminal definitely not!
+	If you hate the terminal definitely not!
+
+	If you hate learning keybindings this isn't for you!
 
 If you frequently finding yourself wanting to quickly look at some data it might be
 
@@ -149,3 +153,14 @@ vd --encoding=windows-1252 PPR-ALL.csv.gz
 - group by postal code and guess which has the highest total :D
 - demo filtering down to my development
     - | 
+
+---
+
+	# Thank You!
+	https://github.com/micktwomey/visidata-talk
+	@micktwomey
+	@micktwomey@mastodon.ie
+
+/assets/Clipboard_4.png
+size: contain
+

@@ -1,10 +1,11 @@
 {
   "net.ia.presenter" : {
     "preset" : "Default",
-    "template" : "san francisco"
+    "template" : "san francisco",
+    "appearance" : "light"
   },
-  "version" : 2,
-  "type" : "net.daringfireball.markdown",
   "creatorIdentifier" : "net.ia.presenter",
+  "type" : "net.daringfireball.markdown",
+  "version" : 2,
   "transient" : false
 }
